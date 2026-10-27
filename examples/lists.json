@@ -1,0 +1,74 @@
+{
+  "lists": [
+    {
+      "n": 1,
+      "key": "ai-tasks-events",
+      "name": "AI: задачи и события",
+      "id": "demo-list-1",
+      "themes": "durable execution, чекпойнты, событийные триггеры"
+    },
+    {
+      "n": 2,
+      "key": "ai-memory",
+      "name": "AI: память агента",
+      "id": "demo-list-2",
+      "themes": "память как слой, версионирование, владение"
+    },
+    {
+      "n": 3,
+      "key": "ai-identity",
+      "name": "AI: identity и права",
+      "id": "demo-list-3",
+      "themes": "agent identity, скоупы на задачу, класс действия, MCP"
+    },
+    {
+      "n": 4,
+      "key": "ai-security",
+      "name": "AI: безопасность",
+      "id": "demo-list-4",
+      "themes": "prompt injection, провенанс, lethal trifecta"
+    },
+    {
+      "n": 5,
+      "key": "ai-hitl",
+      "name": "AI: HITL и оркестрация",
+      "id": "demo-list-5",
+      "themes": "подтверждения, evals как gate, граница харнесса"
+    },
+    {
+      "n": 6,
+      "key": "ai-runtime",
+      "name": "AI: runtime и вход",
+      "id": "demo-list-6",
+      "themes": "CLI+MCP, песочницы, on-prem, egress, агентный браузер"
+    },
+    {
+      "n": 7,
+      "key": "product-mail-calendar",
+      "name": "Продукты: почта и календарь",
+      "id": "demo-list-7",
+      "themes": "AI-native почта и календарь, агентные инбоксы"
+    },
+    {
+      "n": 8,
+      "key": "product-tasks-docs",
+      "name": "Продукты: задачи и доки",
+      "id": "demo-list-8",
+      "themes": "задачи, документы, вики, заметки, AI-native продуктивность"
+    },
+    {
+      "n": 9,
+      "key": "product-files-photos",
+      "name": "Продукты: файлы и фото",
+      "id": "demo-list-9",
+      "themes": "хранилища, фото, AI-поиск по файлам"
+    },
+    {
+      "n": 10,
+      "key": "product-calls",
+      "name": "Продукты: звонки и встречи",
+      "id": "demo-list-10",
+      "themes": "AI-нотетейкеры, meeting-агенты, голос"
+    }
+  ]
+}

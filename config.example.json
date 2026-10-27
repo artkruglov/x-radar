@@ -1,0 +1,27 @@
+{
+  "paths": {
+    "data_dir": "data",
+    "lists": "lists.json",
+    "roster": "roster.json",
+    "tracks": "tracks.json"
+  },
+  "channel": {
+    "name": "Мой канал",
+    "link": "",
+    "signature": ""
+  },
+  "project_context": "Опишите аудиторию, продукт и вопросы, на которые должен отвечать радар.",
+  "schedule": {
+    "timezone": "Europe/Moscow",
+    "collect": [
+      "08:00",
+      "14:00",
+      "20:00"
+    ],
+    "weekly": "Пн 09:00"
+  },
+  "classification": {
+    "model": "",
+    "api_base": "https://openrouter.ai/api/v1"
+  }
+}

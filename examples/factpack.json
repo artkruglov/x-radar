@@ -1,0 +1,177 @@
+{
+ "period": {
+  "from": "2026-10-20",
+  "to": "2026-10-27",
+  "days": 7
+ },
+ "volume": {
+  "posts": 7,
+  "posts_prev": 1,
+  "originals": 7,
+  "reposts": 0
+ },
+ "by_list": [
+  {
+   "list": "AI: HITL и оркестрация",
+   "now": 2,
+   "prev": 0
+  },
+  {
+   "list": "AI: runtime и вход",
+   "now": 1,
+   "prev": 0
+  },
+  {
+   "list": "AI: задачи и события",
+   "now": 1,
+   "prev": 1
+  },
+  {
+   "list": "AI: identity и права",
+   "now": 1,
+   "prev": 0
+  },
+  {
+   "list": "Продукты: почта и календарь",
+   "now": 1,
+   "prev": 0
+  },
+  {
+   "list": "Продукты: задачи и доки",
+   "now": 1,
+   "prev": 0
+  }
+ ],
+ "by_author": [
+  [
+   "demo_builder",
+   2
+  ],
+  [
+   "demo_lab",
+   1
+  ],
+  [
+   "demo_reviewer",
+   1
+  ],
+  [
+   "demo_product",
+   1
+  ],
+  [
+   "demo_founder",
+   1
+  ],
+  [
+   "demo_host",
+   1
+  ]
+ ],
+ "reposters": [],
+ "amplified_accounts": [],
+ "quoted_accounts": [],
+ "mentions": [],
+ "outsiders_surfacing": [],
+ "rising_terms": [
+  [
+   "fictional",
+   7,
+   1
+  ]
+ ],
+ "silent_roster": [],
+ "top_posts": [
+  {
+   "author": "demo_host",
+   "via": "",
+   "eng": 76,
+   "likes": 28,
+   "reposts": 12,
+   "views": 340,
+   "list": "AI: HITL и оркестрация",
+   "ts": "2026-10-26",
+   "link": "https://example.com/posts/1007",
+   "text": "Fictional podcast discusses memory, evaluation and agent reliability.",
+   "quoted": ""
+  },
+  {
+   "author": "demo_founder",
+   "via": "",
+   "eng": 65,
+   "likes": 25,
+   "reposts": 10,
+   "views": 300,
+   "list": "Продукты: задачи и доки",
+   "ts": "2026-10-25",
+   "link": "https://example.com/posts/1006",
+   "text": "Fictional startup changes pricing from seats to completed work.",
+   "quoted": ""
+  },
+  {
+   "author": "demo_product",
+   "via": "",
+   "eng": 54,
+   "likes": 22,
+   "reposts": 8,
+   "views": 260,
+   "list": "Продукты: почта и календарь",
+   "ts": "2026-10-24",
+   "link": "https://example.com/posts/1005",
+   "text": "Fictional email assistant turns meeting notes into draft tasks.",
+   "quoted": ""
+  },
+  {
+   "author": "demo_reviewer",
+   "via": "",
+   "eng": 43,
+   "likes": 19,
+   "reposts": 6,
+   "views": 220,
+   "list": "AI: identity и права",
+   "ts": "2026-10-23",
+   "link": "https://example.com/posts/1004",
+   "text": "Fictional permission review: agents request approval before an external action.",
+   "quoted": ""
+  },
+  {
+   "author": "demo_builder",
+   "via": "",
+   "eng": 32,
+   "likes": 16,
+   "reposts": 4,
+   "views": 180,
+   "list": "AI: задачи и события",
+   "ts": "2026-10-22",
+   "link": "https://example.com/posts/1003",
+   "text": "Fictional workflow engine resumes a long task after a restart.",
+   "quoted": ""
+  },
+  {
+   "author": "demo_builder",
+   "via": "",
+   "eng": 21,
+   "likes": 13,
+   "reposts": 2,
+   "views": 140,
+   "list": "AI: runtime и вход",
+   "ts": "2026-10-21",
+   "link": "https://example.com/posts/1002",
+   "text": "Fictional coding agent adds review checkpoints and test reports.",
+   "quoted": ""
+  },
+  {
+   "author": "demo_lab",
+   "via": "",
+   "eng": 10,
+   "likes": 10,
+   "reposts": 0,
+   "views": 100,
+   "list": "AI: HITL и оркестрация",
+   "ts": "2026-10-20",
+   "link": "https://example.com/posts/1001",
+   "text": "Fictional model release: a small open model for document summaries.",
+   "quoted": ""
+  }
+ ]
+}

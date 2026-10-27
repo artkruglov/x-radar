@@ -1,0 +1,41 @@
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+/config.json
+/lists.json
+/roster.json
+/tracks.json
+# User content and runtime output
+/data/
+/digests/
+/signals/
+/series/
+/episodes/
+*.jsonl
+!examples/posts.jsonl
+*.log
+*.b64
+*.db
+*.sqlite*
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.ttf
+*.otf
+*.tgz
+*.zip
+out/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.cache/
+.DS_Store
+# Episode-local branding and drafts
+skills/tg-news-stories/assets/template/brand.json

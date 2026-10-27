@@ -1,0 +1,7 @@
+{
+ "--voice-fx": "natural",
+ "--loop-from": 30.0,
+ "--lufs": -16.0,
+ "--under": -18.0,
+ "--gap": -10.0
+}

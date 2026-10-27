@@ -1,0 +1,42 @@
+[
+  {
+    "link": "https://example.com/posts/1001",
+    "track": "MODELS",
+    "label": "Модели и исследования"
+  },
+  {
+    "link": "https://example.com/posts/1002",
+    "track": "CODE",
+    "label": "Кодинг-агенты"
+  },
+  {
+    "link": "https://example.com/posts/1003",
+    "track": "BUILD",
+    "label": "Как строят агентов"
+  },
+  {
+    "link": "https://example.com/posts/1004",
+    "track": "TRUST",
+    "label": "Доверие и качество"
+  },
+  {
+    "link": "https://example.com/posts/1005",
+    "track": "WORK",
+    "label": "Агенты в работе"
+  },
+  {
+    "link": "https://example.com/posts/1006",
+    "track": "BIZ",
+    "label": "Продукт и бизнес"
+  },
+  {
+    "link": "https://example.com/posts/1007",
+    "track": "WATCH",
+    "label": "Что посмотреть"
+  },
+  {
+    "link": "https://example.com/posts/1008",
+    "track": "BUILD",
+    "label": "Как строят агентов"
+  }
+]

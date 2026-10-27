@@ -1,0 +1,18 @@
+{
+  "paths": {
+    "data_dir": "../data/demo",
+    "lists": "lists.json",
+    "roster": "roster.json",
+    "tracks": "../tracks.example.json"
+  },
+  "channel": {
+    "name": "Демонстрационный канал",
+    "link": "",
+    "signature": ""
+  },
+  "project_context": "Все посты и аккаунты в примере вымышлены.",
+  "classification": {
+    "model": "",
+    "api_base": "https://openrouter.ai/api/v1"
+  }
+}
